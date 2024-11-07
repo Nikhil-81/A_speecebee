@@ -1,0 +1,30 @@
+[
+    {
+        "image": "./images/p1.jpg",
+        "name": "John Doe",
+        "designation": "Chief Marketing Officer",
+        "company": "Acme Corp",
+        "des":"Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas."
+    },
+    {
+        "image": "./images/p2.jpg",
+        "name": "John Doe",
+        "designation": "Chief Marketing Officer",
+        "company": "Acquia",
+        "des":"Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas."
+    },
+    {
+        "image": "./images/p3.jpg",
+        "name": "John Doe",
+        "designation": "Chief Marketing Officer",
+        "company": "Pantheon",
+        "des":"Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas."
+    },
+    {
+        "image": "./images/p4.jpg",
+        "name": "John Doe",
+        "designation": "Chief Marketing Officer",
+        "company": "Specbee",
+        "des":"Monotonectally synergize business communities rather than client-centric convergence. Assertively unleash cross-platform best practices rather than pandemic total linkage. Synergistically monetize parallel infomediaries whereas 2.0 mindshare. Dramatically pursue real-time markets through e-business strategic theme areas."
+    }
+]
